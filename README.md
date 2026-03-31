@@ -34,10 +34,10 @@ The client and their team were manually checking for updates across a shared pla
 Schedule Trigger
       │
       ▼
- HTTP Request  ──────────────────────────────────────────────┐
- (Data Source)                                               │
-      │                                               [Pinned mock data
-      ▼                                                in demo version]
+ HTTP Request
+ (Data Source)                                               
+      │                                              
+      ▼                                                
  Backend Process
  (Python · Flask · Playwright)
       │
